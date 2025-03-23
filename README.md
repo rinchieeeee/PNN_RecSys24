@@ -1,7 +1,7 @@
 # Unlocking the Hidden Treasures: Enhancing Recommendations with Unlabeled Data (RecSys24) の再現実装
 
 ## 概要
-- 表題の通り、RecSys2024 で発表されていた手法の再現実装を行った. 
+- 表題の通り、RecSys2024 で発表されていた手法の再現実装を行った([こちら](https://github.com/rinchieeeee/rinchi-RecBole/blob/af80a95bef9d28dd5c5d7115cf9c3cdc03dfdadf/recbole/model/general_recommender/pnn_recsys2024.py)). 
 - 結果は以下の通り. 論文に記載されている評価指標との差分は、ハイパーパラメータチューニング等で埋められるとみなし、再現実装は成功したとみなすことにした。
 
 MovieLens-1M
