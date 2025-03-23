@@ -1,0 +1,6 @@
+[submodule "RecSysDatasets-fix-unicode-error"]
+	path = RecSysDatasets-fix-unicode-error
+	url = https://github.com/rinchieeeee/RecSysDatasets-fix-unicode-error
+[submodule "rinchi-RecBole"]
+	path = rinchi-RecBole
+	url = https://github.com/rinchieeeee/rinchi-RecBole
